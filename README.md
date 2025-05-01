@@ -25,9 +25,7 @@
 `Apache Spark` `Databricks` `Automic` `Autosys`
 
 **Cloud & Big Data:**  
-`AWS`  
-`Azure` 
-`Google Cloud` 
+`AWS` `Azure` `Google Cloud` 
 
 ---
 <!--
