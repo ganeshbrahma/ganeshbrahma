@@ -8,11 +8,24 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 Data Engineer with 4+ years of experience in building scalable data pipelines
-- 🌩️ Skilled in **Spark**, **Databricks**, **Azure**, and **AWS**
-- 📊 Migrated large-scale data from BigQuery to Spark (200M+ records)
+I'm **Ganesh Brahma**, a certified Azure Data Engineer with 4+ years of experience building robust, scalable, and cloud-native data solutions. I specialize in designing and optimizing big data pipelines using **Spark**, **Azure**, and **AWS** technologies to solve high-volume data challenges in the healthcare and retail sectors.
+
+- 💼 **Associate Data Engineer @ Cognizant** — Developed and optimized ETL pipelines for 200M+ records, reduced workflow runtimes by 50%, and led cloud migration from Cloudera to Azure.
+- 🛒 **Freelance @ Applaudo (Walmart)** — Migrated large-scale pipelines from BigQuery to Spark on GCP with 40% runtime improvement.
+- ✈️ Built real-time streaming systems using Spark, Sqoop, and Hadoop for aviation analytics.
+- 📦 Skilled in **Databricks**, **Azure Data Factory**, **Hive**, **Scala**, **PySpark**, and **Cloud DevOps (CI/CD, Git, Jenkins)**.
+- 📨 Creator of **MailMatrix** – a serverless bulk email dispatch system on AWS.
 - 🧠 Passionate about clean code, performance tuning, and cloud-native solutions
-- 📨 Creator of **MailMatrix** – a serverless bulk email dispatch system on AWS
+
+I love transforming raw data into actionable insights through efficient architecture and clean engineering practices. Currently pursuing my Master’s in Computer Science at the **University of Central Missouri**, expected in 2025.
+
+---
+
+🔧 **Certified In**:  
+- [Azure Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-in/ganeshbrahma-2238/256CB5CDCC227EC9?sharingId)  
+- [Azure Data Fundamentals](https://learn.microsoft.com/api/credentials/share/en-in/ganeshbrahma-2238/58713C8EB434ED97?sharingId)  
+- [Data Scientist’s Toolbox – Coursera](https://www.coursera.org/account/accomplishments/verify/MCXN6QU5MC66)
+
 
 ---
 
