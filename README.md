@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ganesh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B7A8&center=true&vCenter=true&width=450&lines=Data+Engineer+%7C+Cloud+ETL+Developer;AWS+%7C+Azure+%7C+Big+Data+%7C+Spark+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00B7A8&center=true&vCenter=true&width=450&lines=Data+Engineer+;AWS+%7C+Azure+%7C+Big+Data+%7C+Spark" alt="Typing SVG" />
 </p>
 
 ---
