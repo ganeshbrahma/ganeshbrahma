@@ -55,6 +55,7 @@ I love transforming raw data into actionable insights through efficient architec
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ganeshbrahma/)
+- 🌐 [Github](https://github.com/ganeshbrahma?tab=repositories)
 - 💼 Open for collaboration on data engineering projects
 - ✨ Currently building real-world cloud projects & contributing to open source
 
